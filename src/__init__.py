@@ -1,0 +1,1 @@
+"""DigitAI application package."""

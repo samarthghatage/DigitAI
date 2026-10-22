@@ -1,0 +1,15 @@
+{
+  "digit_0": true,
+  "digit_1": true,
+  "digit_2": true,
+  "digit_3": true,
+  "digit_4": true,
+  "digit_5": true,
+  "digit_6": true,
+  "digit_7": true,
+  "digit_8": true,
+  "digit_9": true,
+  "rgba": true,
+  "blank_rejected": true,
+  "tensor_bypass": true
+}
